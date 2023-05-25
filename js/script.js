@@ -69,7 +69,7 @@ console.log("Remove menu profile is working!")
 var animatedText = document.getElementById('Typewriter')
 
 new Typewriter('#typewriter', {
-  strings: ['Software Engineer', 'Data Analyst Engineer', 'Web Developer', 'Web & App Designer', 'Graphic Designer'],
+  strings: ['Full Stack Developer', 'Backend Developer', 'Frontend Developer', 'Web & App Designer', 'Software Engineer'],
   autoStart: true,
   loop:true,
   curser: ""
